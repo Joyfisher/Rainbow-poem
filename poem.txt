@@ -1,5 +1,4 @@
-
-The Rainbow and Unicorn and Pony and Donkey
+The Rainbow and Unicorn and Pony and Donkey and Bunny
 
 Donkey
 White
@@ -11,7 +10,7 @@ Blue
 Green
 Indigo
 Unicorn
-Pony
+PonyMini
 Yellow
 Red
 These are the colors of the rainbow
