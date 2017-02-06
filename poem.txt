@@ -16,3 +16,5 @@ Red
 These are the colors of the rainbow
 
 Change as per issue#5
+
+Test auto close issue with keyword "fixes #5"
